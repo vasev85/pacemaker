@@ -32,7 +32,7 @@
 
 *Пришлите скриншот рабочей конфигурации и состояния сервиса для каждого нода.*
 ![alt text](https://github.com/vasev85/pacemaker/blob/main/Ex3.png?raw=true) 
-
+![alt text](https://github.com/vasev85/pacemaker/blob/main/ex3-1.png?raw=true) 
 ---
 
 ### Дополнительные задания (со звездочкой*)
