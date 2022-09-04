@@ -31,7 +31,7 @@
 Соберите модель, состоящую из двух виртуальных машин. Установите pacemaker, corosync, pcs.  Настройте HA кластер.
 
 *Пришлите скриншот рабочей конфигурации и состояния сервиса для каждого нода.*
-![alt text](https://github.com/vasev85/pacemaker/blob/main/ex3.png?raw=true) 
+![alt text](https://github.com/vasev85/pacemaker/blob/main/Ex3.png?raw=true) 
 
 ---
 
