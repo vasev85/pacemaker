@@ -46,4 +46,6 @@
 
 *Пришлите скриншот рабочей конфигурации и состояние сервиса для каждого нода.*
 
+![alt text](https://github.com/vasev85/pacemaker/blob/main/ex4-1.png?raw=true) 
+
 ![alt text](https://github.com/vasev85/pacemaker/blob/main/ex4.png?raw=true) 
